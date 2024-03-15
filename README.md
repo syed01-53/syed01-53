@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syed01-53
+- 👋 Hi, I’m @Syed Muhammad Zain Sultan
 - 👀 I’m interested in web 3.0
 - 🌱 In the future will learning 3.0
 

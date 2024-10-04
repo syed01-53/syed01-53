@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed01-53" alt="syed01-53" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning **ML & DL**
 
-- 🌱 I’m currently learning **Fast APIs**
+- 🌱 I’m currently working **Fast APIs, Django, RestAPI  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/syed01-53](https://github.com/syed01-53)
 

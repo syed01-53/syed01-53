@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Zain Sultan</h1>
-<h3 align="center">A passionate python developer </h3>
+<h3 align="center">A passionate python developer and Data Scientist </h3>
 
 # 💫 About Me:
-🚀 I'm currently working on: FastAPI, Django, REST APIs, and Next.js projects.<br><br>🤝 I'm looking to collaborate on: Open-source Python projects, web development, and AI/ML applications.<br><br>🙋 I'm looking for help with: Advanced Machine Learning and Deep Learning concepts.<br><br>🌱 I'm currently learning: ML, DL, and improving my full-stack development skills.<br><br>💬 Ask me about: Python, Django, FastAPI, backend development, and API integration.<br><br>⚡ Fun fact: I love coding challenges and solving real-world problems with tech!
+
+🚀 **I'm working on:** Django, Django REST Framework, Advanced Machine Learning, Deep Learning, and Next.js projects.  
+
+🤝 **I'm looking to collaborate on:** Open-source Python projects, web development, and AI/ML applications.  
+
+🙋 **I'm looking for help with:** Advanced ML, DL, and multi-agent concepts.  
+
+🌱 **I'm currently learning:** Machine Learning, Deep Learning, and improving my full-stack development skills.  
+
+💬 **Ask me about:** Python, Django, FastAPI, backend development, ML, DL, and API integration.  
+
+⚡ **Fun fact:** I love coding challenges and enjoy solving real-world problems with technology!  
+
 
 
 ## 🌐 Socials:

@@ -7,10 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/syed-muhammad-zain-sultan/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@syedzainsultan">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
-  </a>
+  </a>  
   <a href="https://twitter.com/syedzainsultan">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
   </a>
